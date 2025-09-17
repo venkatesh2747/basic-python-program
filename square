@@ -1,0 +1,3 @@
+a=int(input("enter first number"))
+square= a*a
+print("square of a number",square)
