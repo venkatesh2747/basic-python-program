@@ -1,0 +1,8 @@
+a=[10,20,30]
+b=(10,20,30)
+c={10,20,30}
+d={"one":1,"two":2,"three":3}
+print("list",a)
+print("tupple",b)
+print("set",c)
+print("dict",d)
