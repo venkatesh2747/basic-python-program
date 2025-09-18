@@ -1,0 +1,2 @@
+n=int(input("enter a number"))
+print(n%5==0 and n%11==0)
